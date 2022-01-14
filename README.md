@@ -8,7 +8,7 @@ Licence
 Contacts
 AKAN NAMING SYSTEM
 By Anaritah Mburu
-You can visit the site directly by clicking here: https://anaritahmburu.github.io/Akan-names/
+You can visit the site directly by clicking here: https://anaritahmburu.github.io/IP3/
 
 ##DESCRIPTION 
 Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
